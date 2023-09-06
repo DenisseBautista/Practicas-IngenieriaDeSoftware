@@ -1,0 +1,7 @@
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica4\Practica4\bin\Debug\Practica4.exe.config
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica4\Practica4\bin\Debug\Practica4.exe
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica4\Practica4\bin\Debug\Practica4.pdb
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica4\Practica4\obj\Debug\Practica4.csproj.AssemblyReference.cache
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica4\Practica4\obj\Debug\Practica4.csproj.CoreCompileInputs.cache
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica4\Practica4\obj\Debug\Practica4.exe
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica4\Practica4\obj\Debug\Practica4.pdb
