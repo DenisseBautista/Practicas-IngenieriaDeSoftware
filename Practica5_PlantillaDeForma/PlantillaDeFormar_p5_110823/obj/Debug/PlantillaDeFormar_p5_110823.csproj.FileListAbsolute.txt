@@ -1,0 +1,10 @@
+C:\Users\ICE\Desktop\PlantillaDeFormar_p5_110823\PlantillaDeFormar_p5_110823\bin\Debug\PlantillaDeFormar_p5_110823.exe.config
+C:\Users\ICE\Desktop\PlantillaDeFormar_p5_110823\PlantillaDeFormar_p5_110823\bin\Debug\PlantillaDeFormar_p5_110823.exe
+C:\Users\ICE\Desktop\PlantillaDeFormar_p5_110823\PlantillaDeFormar_p5_110823\bin\Debug\PlantillaDeFormar_p5_110823.pdb
+C:\Users\ICE\Desktop\PlantillaDeFormar_p5_110823\PlantillaDeFormar_p5_110823\obj\Debug\PlantillaDeFormar_p5_110823.csproj.AssemblyReference.cache
+C:\Users\ICE\Desktop\PlantillaDeFormar_p5_110823\PlantillaDeFormar_p5_110823\obj\Debug\PlantillaDeFormar_p5_110823.Form1.resources
+C:\Users\ICE\Desktop\PlantillaDeFormar_p5_110823\PlantillaDeFormar_p5_110823\obj\Debug\PlantillaDeFormar_p5_110823.Properties.Resources.resources
+C:\Users\ICE\Desktop\PlantillaDeFormar_p5_110823\PlantillaDeFormar_p5_110823\obj\Debug\PlantillaDeFormar_p5_110823.csproj.GenerateResource.cache
+C:\Users\ICE\Desktop\PlantillaDeFormar_p5_110823\PlantillaDeFormar_p5_110823\obj\Debug\PlantillaDeFormar_p5_110823.csproj.CoreCompileInputs.cache
+C:\Users\ICE\Desktop\PlantillaDeFormar_p5_110823\PlantillaDeFormar_p5_110823\obj\Debug\PlantillaDeFormar_p5_110823.exe
+C:\Users\ICE\Desktop\PlantillaDeFormar_p5_110823\PlantillaDeFormar_p5_110823\obj\Debug\PlantillaDeFormar_p5_110823.pdb
