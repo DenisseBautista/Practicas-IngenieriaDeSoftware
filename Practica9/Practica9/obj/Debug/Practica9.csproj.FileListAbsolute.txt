@@ -1,0 +1,10 @@
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica9\Practica9\bin\Debug\Practica9.exe.config
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica9\Practica9\bin\Debug\Practica9.exe
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica9\Practica9\bin\Debug\Practica9.pdb
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica9\Practica9\obj\Debug\Practica9.csproj.AssemblyReference.cache
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica9\Practica9\obj\Debug\Practica9.Form1.resources
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica9\Practica9\obj\Debug\Practica9.Properties.Resources.resources
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica9\Practica9\obj\Debug\Practica9.csproj.GenerateResource.cache
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica9\Practica9\obj\Debug\Practica9.csproj.CoreCompileInputs.cache
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica9\Practica9\obj\Debug\Practica9.exe
+D:\Semestre\8vo Semestre\Desarrollo Software\Practica9\Practica9\obj\Debug\Practica9.pdb
